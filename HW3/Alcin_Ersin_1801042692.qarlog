@@ -1,0 +1,33 @@
+Quartus II Archive log --	C:/Users/ALCIN/Desktop/HW3/Alcin_Ersin_1801042692_restored/Alcin_Ersin_1801042692.qarlog
+
+Archive:	C:/Users/ALCIN/Desktop/HW3/Alcin_Ersin_1801042692_restored/Alcin_Ersin_1801042692.qar
+Date:		Sun Dec 19 21:33:43 2021
+Quartus II 64-Bit		13.1.0 Build 162 10/23/2013 SJ Full Version
+
+	=========== Files Selected: ===========
+C:/Users/ALCIN/Desktop/HW3/Alcin_Ersin_1801042692_restored/alu32.v
+C:/Users/ALCIN/Desktop/HW3/Alcin_Ersin_1801042692_restored/andGate.v
+C:/Users/ALCIN/Desktop/HW3/Alcin_Ersin_1801042692_restored/assignment_defaults.qdf
+C:/Users/ALCIN/Desktop/HW3/Alcin_Ersin_1801042692_restored/db/hw_3.cmp.hdb
+C:/Users/ALCIN/Desktop/HW3/Alcin_Ersin_1801042692_restored/db/hw_3.db_info
+C:/Users/ALCIN/Desktop/HW3/Alcin_Ersin_1801042692_restored/full_adder.v
+C:/Users/ALCIN/Desktop/HW3/Alcin_Ersin_1801042692_restored/full_adder_32.v
+C:/Users/ALCIN/Desktop/HW3/Alcin_Ersin_1801042692_restored/half_adder.v
+C:/Users/ALCIN/Desktop/HW3/Alcin_Ersin_1801042692_restored/hw_3.qpf
+C:/Users/ALCIN/Desktop/HW3/Alcin_Ersin_1801042692_restored/hw_3.qsf
+C:/Users/ALCIN/Desktop/HW3/Alcin_Ersin_1801042692_restored/incremental_db/compiled_partitions/hw_3.db_info
+C:/Users/ALCIN/Desktop/HW3/Alcin_Ersin_1801042692_restored/mux_2x1.v
+C:/Users/ALCIN/Desktop/HW3/Alcin_Ersin_1801042692_restored/mux_2x1_32.v
+C:/Users/ALCIN/Desktop/HW3/Alcin_Ersin_1801042692_restored/mux_4x1_32.v
+C:/Users/ALCIN/Desktop/HW3/Alcin_Ersin_1801042692_restored/mux_8x1_32.v
+C:/Users/ALCIN/Desktop/HW3/Alcin_Ersin_1801042692_restored/norGate.v
+C:/Users/ALCIN/Desktop/HW3/Alcin_Ersin_1801042692_restored/notGate.v
+C:/Users/ALCIN/Desktop/HW3/Alcin_Ersin_1801042692_restored/orGate.v
+C:/Users/ALCIN/Desktop/HW3/Alcin_Ersin_1801042692_restored/slt.v
+C:/Users/ALCIN/Desktop/HW3/Alcin_Ersin_1801042692_restored/subtracter_32.v
+C:/Users/ALCIN/Desktop/HW3/Alcin_Ersin_1801042692_restored/testbench.v
+C:/Users/ALCIN/Desktop/HW3/Alcin_Ersin_1801042692_restored/xorGate.v
+	======= Total: 22 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

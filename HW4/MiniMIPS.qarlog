@@ -1,0 +1,44 @@
+Quartus II Archive log --	C:/Users/ALCIN/Desktop/x/MiniMIPS.qarlog
+
+Archive:	C:/Users/ALCIN/Desktop/x/MiniMIPS.qar
+Date:		Fri Jan 07 11:50:44 2022
+Quartus II 64-Bit		13.1.0 Build 162 10/23/2013 SJ Web Edition
+
+	=========== Files Selected: ===========
+C:/Users/ALCIN/Desktop/x/MiniMIPS.qpf
+C:/Users/ALCIN/Desktop/x/MiniMIPS.qsf
+C:/Users/ALCIN/Desktop/x/MiniMIPS.v
+C:/Users/ALCIN/Desktop/x/MiniMIPS_testbench.v
+C:/Users/ALCIN/Desktop/x/adder_16bit.v
+C:/Users/ALCIN/Desktop/x/alu.v
+C:/Users/ALCIN/Desktop/x/alu_testbench.v
+C:/Users/ALCIN/Desktop/x/and_16bit.v
+C:/Users/ALCIN/Desktop/x/control_unit.v
+C:/Users/ALCIN/Desktop/x/data.txt
+C:/Users/ALCIN/Desktop/x/datamem_testbench.v
+C:/Users/ALCIN/Desktop/x/db/MiniMIPS.cmp.hdb
+C:/Users/ALCIN/Desktop/x/db/MiniMIPS.db_info
+C:/Users/ALCIN/Desktop/x/full_adder.v
+C:/Users/ALCIN/Desktop/x/half_adder.v
+C:/Users/ALCIN/Desktop/x/incremental_db/compiled_partitions/MiniMIPS.db_info
+C:/Users/ALCIN/Desktop/x/instruction.mem
+C:/Users/ALCIN/Desktop/x/mips_data.v
+C:/Users/ALCIN/Desktop/x/mips_instructions.v
+C:/Users/ALCIN/Desktop/x/mips_registers.v
+C:/Users/ALCIN/Desktop/x/mux16bit_testbench.v
+C:/Users/ALCIN/Desktop/x/mux_2_1_16bit.v
+C:/Users/ALCIN/Desktop/x/nor_16bit.v
+C:/Users/ALCIN/Desktop/x/or_16bit.v
+C:/Users/ALCIN/Desktop/x/registers.mem
+C:/Users/ALCIN/Desktop/x/sign_extender_6_to_32.v
+C:/Users/ALCIN/Desktop/x/sign_extender_testbench.v
+C:/Users/ALCIN/Desktop/x/simulation/modelsim/data.txt
+C:/Users/ALCIN/Desktop/x/simulation/modelsim/instruction.mem
+C:/Users/ALCIN/Desktop/x/simulation/modelsim/registers.mem
+C:/Users/ALCIN/Desktop/x/xor_16bit.v
+C:/Users/ALCIN/Desktop/x/xor_16bit_v2.v
+c:/altera/13.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 33 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
